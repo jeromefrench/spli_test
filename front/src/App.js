@@ -108,6 +108,8 @@ function App() {
                 <option value="EUR">Euro</option>
                 <option value="USD">Dollar</option>
                 <option value="BTC">Bitcoin</option>
+                <option value="INR">Rupee</option>
+                <option value="CLP">Pesos</option>
               </select>
             </div>
 
